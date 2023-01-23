@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4616A7F1297EE4A400823A57 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4616A7F0297EE4A400823A57 /* ToDoList.swift */; };
+		4616A7F3297EE63400823A57 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4616A7F2297EE63400823A57 /* AddItemView.swift */; };
 		46BFAB90297EDEE800F3262C /* To_Do_ListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BFAB8F297EDEE800F3262C /* To_Do_ListApp.swift */; };
 		46BFAB92297EDEE800F3262C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BFAB91297EDEE800F3262C /* ContentView.swift */; };
 		46BFAB94297EDEEB00F3262C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46BFAB93297EDEEB00F3262C /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		4616A7F0297EE4A400823A57 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		4616A7F2297EE63400823A57 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 		46BFAB8C297EDEE800F3262C /* To Do List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "To Do List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46BFAB8F297EDEE800F3262C /* To_Do_ListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListApp.swift; sourceTree = "<group>"; };
 		46BFAB91297EDEE800F3262C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				46BFAB8F297EDEE800F3262C /* To_Do_ListApp.swift */,
 				46BFAB91297EDEE800F3262C /* ContentView.swift */,
+				4616A7F2297EE63400823A57 /* AddItemView.swift */,
 				4616A7F0297EE4A400823A57 /* ToDoList.swift */,
 				46BFAB93297EDEEB00F3262C /* Assets.xcassets */,
 				46BFAB95297EDEEB00F3262C /* Preview Content */,
@@ -143,6 +146,7 @@
 				46BFAB92297EDEE800F3262C /* ContentView.swift in Sources */,
 				4616A7F1297EE4A400823A57 /* ToDoList.swift in Sources */,
 				46BFAB90297EDEE800F3262C /* To_Do_ListApp.swift in Sources */,
+				4616A7F3297EE63400823A57 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
